@@ -57,11 +57,11 @@ Yes! We have templates for [Keynote](), [PowerPoint](), [MDX-deck](), [Google Sl
 
 Meetups are hosted in the building owned by our sponsors. The full address is:
 
-pl. Jana Pawła II  
+pl. Jana Pawła II 14  
 50-001 Wrocław  
 51.1125 N 17.0241 E  
 [See on Google Maps](https://www.google.com/maps/dir//51.1125,17.0241944/@51.1125,17.0220057,17z/data=!4m10!1m7!3m6!1s0x0:0x0!2zNTHCsDA2JzQ1LjAiTiAxN8KwMDEnMjcuMSJF!3b1!8m2!3d51.1125!4d17.0242!4m1!3e2)  
-[jakdojade.pl](https://jakdojade.pl/wroclaw/trasa/?tn=Plac%20Jana%20Paw%C5%82a%20II%208)
+[jakdojade.pl](https://jakdojade.pl/wroclaw/trasa/?tn=Plac%20Jana%20Paw%C5%82a%20II%14)
 
 We do have a parking lot. There is also space to store a bike inside the building.
 
