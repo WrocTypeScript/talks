@@ -1,0 +1,75 @@
+@import "../template/mixins";
+@import "../template/settings";
+
+@import url("https://fonts.googleapis.com/css?family=Mukta+Vaani:300,400,800&subset=latin-ext");
+
+$white: white;
+$black: black;
+$almostBlack: #080808;
+$almostWhite: #fefefe;
+$blue: #0063ff;
+$orange: #ffb700;
+
+// Override theme settings (see ../template/settings.scss)
+$mainFont: "Mukta Vaani", sans-serif;
+$mainColor: $almostBlack;
+
+$headingFont: "Mukta Vaani", sans-serif;
+$headingColor: $black;
+$headingTextShadow: none;
+$headingTextTransform: none;
+
+.reveal.reveal {
+  h1 {
+    font-weight: 800;
+  }
+
+  a {
+    text-decoration: underline;
+    text-decoration-style: dashed;
+  }
+
+  .background-blue {
+    background-color: $blue;
+    color: $white;
+
+    a {
+      color: $white;
+      &:hover {
+        color: $black;
+      }
+    }
+  }
+
+  .background-orange {
+    background-color: $orange;
+    h1,
+    a:hover {
+      color: $white;
+    }
+  }
+
+  .controls-arrow::before,
+  .controls-arrow::after {
+    border-radius: 0;
+  }
+}
+
+$backgroundColor: $white;
+$linkColor: $mainColor;
+$linkColorHover: $blue;
+$selectionBackgroundColor: rgba(0, 0, 0, 0.99);
+
+section.has-dark-background {
+  &,
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    color: #fff;
+  }
+}
+
+@import "../template/theme";
