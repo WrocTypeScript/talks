@@ -1,10 +1,16 @@
 # reveal.js template for Wrocław TypeScript Meetup
 
-# Usage
+## Usage
 
-- **npm run start** -- Stars local web server _(live reload!)_
-- **npm run zip** -- Zips your presentation
+Write your presentation in _index.html_.
 
-# Demo
+- `npm run start` -- Stars local web server
+- `npm run zip` -- Zips your presentation
 
-Open `demo.html` for reference.
+### Demo
+
+Open _demo.html_ for reference.
+
+### API
+
+Go to https://github.com/hakimel/reveal.js for API docs.
