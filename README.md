@@ -10,7 +10,6 @@ What would you like to share with the community?
 - [I have an idea for a talk, but I don't want to be the speaker.](#i-have-an-idea-for-a-talk-but-i-dont-want-to-be-the-speaker)
 - [My talk has been accepted. Now what?](#my-talk-has-been-accepted-now-what)
   - [What software should I use to create my presentation?](#what-software-should-i-use-to-create-my-presentation)
-  - [Do you have any template I can use?](#do-you-have-any-template-i-can-use)
 - [It's today!](#its-today)
   - [Where is it the event hosted?](#where-is-it-the-event-hosted)
   - [Do I need to bring my own computer?](#do-i-need-to-bring-my-own-computer)
@@ -46,11 +45,6 @@ or [contact us directly](mailto:hello@typescript.community?subject=Idea%20for%20
 
 Whatever you like — as long as it get the job done, we are fine with it.
 
-#### Do you have any template I can use?
-
-Yes! We have templates for [Keynote](), [PowerPoint](), [MDX-deck](), [Google Slides](), and
-[reveal.js](). You can of course bring your own.
-
 ### It's today!
 
 #### Where is it the event hosted?
@@ -58,10 +52,10 @@ Yes! We have templates for [Keynote](), [PowerPoint](), [MDX-deck](), [Google Sl
 Meetups are hosted in the building owned by our sponsors. The full address is:
 
 pl. Jana Pawła II 14  
-50-001 Wrocław  
+50-079 Wrocław  
 51.1125 N 17.0241 E  
-[See on Google Maps](https://www.google.com/maps/dir//51.1125,17.0241944/@51.1125,17.0220057,17z/data=!4m10!1m7!3m6!1s0x0:0x0!2zNTHCsDA2JzQ1LjAiTiAxN8KwMDEnMjcuMSJF!3b1!8m2!3d51.1125!4d17.0242!4m1!3e2)  
-[jakdojade.pl](https://jakdojade.pl/wroclaw/trasa/?tn=Plac%20Jana%20Paw%C5%82a%20II%14)
+[See on Google Maps](https://www.google.com/maps/dir//plac+Jana+Paw%C5%82a+II+14,+50-079+Wroc%C5%82aw,+Polska/@51.1116577,17.0199383,17z/data=!4m9!4m8!1m0!1m5!1m1!1s0x470fc20a38996577:0xdbfd0b444e0630dc!2m2!1d17.022127!2d51.1116544!3e0)  
+[jakdojade.pl](https://jakdojade.pl/wroclaw/trasa/?tn=Plac%20Jana%20Paw%C5%82a%20II%2014)
 
 We do have a parking lot. There is also space to store a bike inside the building.
 
