@@ -1,0 +1,5 @@
+.drafts/*
+!.drafts/TEMPLATE.md
+
+.vscode/*
+!.vscode/extensions.json
