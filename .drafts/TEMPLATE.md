@@ -5,35 +5,20 @@ Estimated duration:
 Keywords:
 ---
 
-# (Title of your talk)
-
-<!-- If you need a Table of Contents, put it between these tags. -->
-<!-- TOC depthFrom:2 depthTo:3 -->
-
-<!-- /TOC -->
+# \<Title of your talk>
 
 ## The talk
 
-### Summary
+### One-sentence summary
 
-<!-- One-sentence description of what are you going to present. -->
+### What's the format — is it a case study, a live coding session, a workshop or something else?
 
-### Format
-
-<!-- Is it a case study, a live coding session, a workshop or something else? -->
-
-### Full description
-
-<!-- Be as verbose as you like. -->
+### Tell us more about the talk
 
 ## You
 
-### How would you like to be announced?
-
-<!-- A few words about yourself. We want to announce you properly! -->
+### A few words about yourself
 
 ### Would you be willing to have a Q/A session after the talk?
 
 ### Is there anything we can help you with?
-
-<!-- Do you need assistance of any kind? -->
