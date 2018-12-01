@@ -1,8 +1,8 @@
 ---
-Your name:
-Target audience (beginner/intermediate/advanced):
+Your full name:
+Target audience (beginner/intermediate/advanced/everyone):
 Estimated duration:
-Tags:
+Keywords:
 ---
 
 # (Title of your talk)
