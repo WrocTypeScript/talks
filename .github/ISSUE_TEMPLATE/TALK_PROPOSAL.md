@@ -1,9 +1,11 @@
 ---
-Your full name:
-Target audience (beginner/intermediate/advanced/everyone):
-Estimated duration:
-Keywords:
+name: Talk proposal
 ---
+
+- **Your full name**:
+- **Target audience** (beginner/intermediate/advanced/everyone):
+- **Estimated duration**:
+- **Keywords**:
 
 # \<Title of your talk>
 

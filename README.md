@@ -28,10 +28,8 @@ What would you like to share with the community?
 
 ### How can I submit my talk?
 
-Create a Markdown file based on the [template](.drafts/TEMPLATE.md) and put it in the `new/`
-folder.  
-You can do it directly from GitHub
-[by clicking this link](https://github.com/WrocTypeScript/talk-proposals/new/master?filename=new/my-talk-title.md&message=Initial%20draft&value=---%0D%0AYour+full+name%3A%0D%0ATarget+audience+%28beginner%2Fintermediate%2Fadvanced%2Feveryone%29%3A%0D%0AEstimated+duration%3A%0D%0AKeywords%3A%0D%0A---%0D%0A%0D%0A%23+%5C%3CTitle+of+your+talk%3E%0D%0A%0D%0A%23%23+The+talk%0D%0A%0D%0A%23%23%23+One-sentence+summary%0D%0A%0D%0A%23%23%23+What%27s+the+format+%E2%80%94+is+it+a+case+study%2C+a+live+coding+session%2C+a+workshop+or+something+else%3F%0D%0A%0D%0A%23%23%23+Tell+us+more+about+the+talk%0D%0A%0D%0A%23%23+You%0D%0A%0D%0A%23%23%23+A+few+words+about+yourself%0D%0A%0D%0A%23%23%23+Would+you+be+willing+to+have+a+Q%2FA+session+after+the+talk%3F%0D%0A%0D%0A%23%23%23+Is+there+anything+we+can+help+you+with%3F).
+Open an issue in this repository and follow the template. You can use
+[this link](<https://github.com/WrocTypeScript/talk-proposals/issues/new?template=TALK_PROPOSAL.md&title=(Your%20talk%20title)&labels=Proposal>).
 
 ### I have an idea for a talk, but I don't want to be the speaker.
 
