@@ -33,8 +33,8 @@ Open an issue in this repository and follow the template. You can use
 
 ### I have an idea for a talk, but I don't want to be the speaker.
 
-That's perfectly fine! We want to hear about it. Please open
-[an issue](https://github.com/WrocTypeScript/talk-proposals/issues/new?title=Idea%20for%20a%20talk)
+That's perfectly fine! We want to hear about it. Please
+[open an issue](https://github.com/WrocTypeScript/talk-proposals/issues/new?template=TALK_IDEA.md&labels=Idea)
 or [contact us directly](mailto:hello@typescript.community?subject=Idea%20for%20a%20talk).
 
 ### My talk has been accepted. Now what?
