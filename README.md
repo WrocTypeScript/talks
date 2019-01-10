@@ -1,6 +1,6 @@
 # Talk proposals
 
-What would you like to share with the community?
+Do you have something to share with the community? [Tell us about it!](https://github.com/WrocTypeScript/talks/issues/new/choose)
 
 ## FAQ
 
