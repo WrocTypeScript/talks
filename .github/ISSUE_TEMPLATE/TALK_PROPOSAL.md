@@ -1,9 +1,15 @@
 ---
-Your full name:
-Target audience (beginner/intermediate/advanced/everyone):
-Estimated duration:
-Keywords:
+name: Talk proposal
+about: Speak at our meetup. Volunteers are always welcome!
+title: "(Your talk title)"
+labels: Proposal
+assignees: ''
 ---
+
+- **Your full name**:
+- **Target audience** (beginner/intermediate/advanced/everyone):
+- **Estimated duration**:
+- **Keywords**:
 
 # \<Title of your talk>
 
