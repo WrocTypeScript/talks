@@ -3,7 +3,7 @@ name: Talk proposal
 about: Speak at our meetup. Volunteers are always welcome!
 title: "(Your talk title)"
 labels: Proposal
-assignees: ''
+assignees: "@WrocTypeScript/organisers"
 ---
 
 - **Your full name**:

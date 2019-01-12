@@ -1,4 +1,4 @@
 # Configuration for https://probot.github.io/apps/welcome/
 
 newIssueWelcomeComment: >
-  Thanks for your contribution! One of the organisers will go back to you as soon as possible.
+  Thanks for your contribution! One of the @WrocTypeScript/organisers will go back to you as soon as possible.
