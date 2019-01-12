@@ -8,6 +8,7 @@ Do you have something to share with the community? [Tell us about it!](https://g
 
 - [How can I submit my talk?](#how-can-i-submit-my-talk)
 - [I have an idea for a talk, but I don't want to be the speaker.](#i-have-an-idea-for-a-talk-but-i-dont-want-to-be-the-speaker)
+- [I want to speak, but I don't have a topic.](#i-want-to-speak-but-i-dont-have-a-topic)
 - [My talk has been accepted. Now what?](#my-talk-has-been-accepted-now-what)
   - [What software should I use to create my presentation?](#what-software-should-i-use-to-create-my-presentation)
 - [It's today!](#its-today)
