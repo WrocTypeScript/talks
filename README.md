@@ -36,6 +36,10 @@ That's perfectly fine! We want to hear about it. You can
 [open an issue](https://github.com/WrocTypeScript/talks/issues/new/choose)
 or [contact us directly](mailto:hello@typescript.community?subject=Idea%20for%20a%20talk).
 
+### I want to speak, but I don't have a topic.
+
+Check out the [topics requested by the community](https://github.com/WrocTypeScript/talks/labels/Up%20for%20grabs).
+
 ### My talk has been accepted. Now what?
 
 #### What software should I use to create my presentation?
