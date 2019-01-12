@@ -2,6 +2,8 @@
 
 Do you have something to share with the community? [Tell us about it!](https://github.com/WrocTypeScript/talks/issues/new/choose)
 
+<img src="https://secure.meetupstatic.com/photos/event/d/8/3/c/highres_477715356.jpeg" alt="TypeScript Wrocław banner">
+
 ## FAQ
 
 <!-- TOC depthFrom:3 depthTo:4 -->
