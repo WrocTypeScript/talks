@@ -59,6 +59,12 @@ pl. Jana Pawła II 14
 [See on Google Maps](https://www.google.com/maps/dir//plac+Jana+Paw%C5%82a+II+14,+50-079+Wroc%C5%82aw,+Polska/@51.1116577,17.0199383,17z/data=!4m9!4m8!1m0!1m5!1m1!1s0x470fc20a38996577:0xdbfd0b444e0630dc!2m2!1d17.022127!2d51.1116544!3e0)  
 [jakdojade.pl](https://jakdojade.pl/wroclaw/trasa/?tn=Plac%20Jana%20Paw%C5%82a%20II%2014)
 
+<a href="https://www.google.com/maps/dir//plac+Jana+Paw%C5%82a+II+14,+50-079+Wroc%C5%82aw,+Polska/@51.1116577,17.0199383,17z/data=!4m9!4m8!1m0!1m5!1m1!1s0x470fc20a38996577:0xdbfd0b444e0630dc!2m2!1d17.022127!2d51.1116544!3e0" alt="Our location on the map">
+  <img src="https://maps.google.com/maps/api/staticmap?markers=icon%3Ahttps%3A%2F%2Fsecure.meetupstatic.com%2Fs%2Fimg%2F5961591462445047%2Fmup-custom-google-map-pin.png%7C51.112453%2C17.024282&zoom=17&size=480x300&sensor=false&key=AIzaSyA3fSxhHZNQNfMjJuMFvmULACXrBfFz9jQ&signature=mO3WqawkoxWueF0lin1nUyoXpqg%3D.jpg" width="340">
+</a>
+
+<br>
+
 We do have a parking lot. There is also space to store a bike inside the building.
 
 #### Do I need to bring my own computer?
