@@ -1,0 +1,8 @@
+# Configuration for https://probot.github.io/apps/reaction/
+
+# Issues and pull requests with these labels accept reaction comments.
+exemptLabels: []
+
+# Replace matching comments with this message.
+reactionComment: >
+  Hello @{comment-author}! Please use a [reaction](https://git.io/vhzhC) instead of a comment. This will help us prioritize the topics.
