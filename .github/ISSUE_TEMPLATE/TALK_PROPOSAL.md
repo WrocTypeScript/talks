@@ -27,4 +27,6 @@ assignees: "@WrocTypeScript/organisers"
 
 ### Would you be willing to have a Q/A session after the talk?
 
+### How can we find you on social media?
+
 ### Is there anything we can help you with?
