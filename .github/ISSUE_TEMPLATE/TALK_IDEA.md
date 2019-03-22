@@ -1,9 +1,10 @@
 ---
 name: Idea for a talk
-about: What would you like to learn?
+about: I have an idea, but I donʼt want to speak.
 title: ''
 labels: Idea
-assignees: "@WrocTypeScript/organisers"
+assignees: ''
+
 ---
 
 ### What should the talk be about?

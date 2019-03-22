@@ -1,9 +1,10 @@
 ---
 name: Talk proposal
-about: Speak at our meetup. Volunteers are always welcome!
+about: Give a talk, share your knowledge, and build your personal brand.
 title: "(Your talk title)"
 labels: Proposal
-assignees: "@WrocTypeScript/organisers"
+assignees: ''
+
 ---
 
 - **Your full name**:
