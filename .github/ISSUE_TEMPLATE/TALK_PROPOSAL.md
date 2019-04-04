@@ -26,7 +26,7 @@ assignees: ''
 
 ### A few words about yourself
 
-<-- That's what we're going to use on social media, and to introduce you during the event. -->
+<!-- That's what we're going to use on social media, and to introduce you during the event. -->
 
 ### How can we find you on social media?
 
