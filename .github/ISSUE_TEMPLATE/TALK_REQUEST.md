@@ -1,6 +1,6 @@
 ---
-name: Idea for a talk
-about: I have an idea, but I donʼt want to speak.
+name: Talk request
+about: I have an idea, but I donʼt want to be the speaker.
 title: ''
 labels: Idea
 assignees: ''
