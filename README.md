@@ -102,7 +102,7 @@ activity is exclusively _pro bono_ now.
 
 #### Are you recording the events?
 
-No, talks will not be recorded. We may take photographs though.
+It dependes on the speaker. If the speaker does not mind, we may record the talk and put it on [our YouTube channel](https://www.youtube.com/channel/UC92_BcNwy2Y7u3yaM5N8SLg).
 
 #### How long do your events take?
 
