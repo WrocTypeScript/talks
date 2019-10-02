@@ -1,6 +1,6 @@
 ---
 name: Talk proposal
-about: Give a talk, share your knowledge, and build your personal brand.
+about: I want to speak.
 title: "(Your talk title)"
 labels: Proposal
 assignees: ''
