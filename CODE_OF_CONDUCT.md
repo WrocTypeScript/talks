@@ -24,4 +24,4 @@ We expect participants to follow these rules at meetup and workshop venues and W
 
 ## Attributions
 
-Code of Conduct is derived from https://confcodeofconduct.com/ and licensed under a Creative Commons Attribution 3.0 Unported License.
+Code of Conduct is derived from https://confcodeofconduct.com/ and licensed under a [Creative Commons Attribution 3.0 Unported License](https://creativecommons.org/licenses/by/3.0/).
