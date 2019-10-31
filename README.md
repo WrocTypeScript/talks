@@ -53,6 +53,7 @@ Whatever you like — as long as it get the job done, we are fine with it.
 
 Meetups are hosted in the building owned by our sponsors. The full address is:
 
+The Place
 pl. Jana Pawła II 14  
 50-079 Wrocław  
 51.1125 N 17.0241 E  
