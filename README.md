@@ -6,24 +6,26 @@ Do you have something to share with the community? [Tell us about it!](https://g
 
 <!-- TOC depthFrom:3 depthTo:4 -->
 
-- [How can I submit my talk?](#how-can-i-submit-my-talk)
-- [I have an idea for a talk, but I don't want to be the speaker.](#i-have-an-idea-for-a-talk-but-i-dont-want-to-be-the-speaker)
-- [I want to speak, but I don't have a topic.](#i-want-to-speak-but-i-dont-have-a-topic)
-- [My talk has been accepted. Now what?](#my-talk-has-been-accepted-now-what)
-  - [What software should I use to create my presentation?](#what-software-should-i-use-to-create-my-presentation)
-- [It's today!](#its-today)
-  - [Where is it the event hosted?](#where-is-it-the-event-hosted)
-  - [Do I need to bring my own computer?](#do-i-need-to-bring-my-own-computer)
-  - [When should I be at your place?](#when-should-i-be-at-your-place)
-  - [Can I visit your place and prepare myself before the event?](#can-i-visit-your-place-and-prepare-myself-before-the-event)
-  - [Is your place accessible for people with movement disabilities?](#is-your-place-accessible-for-people-with-movement-disabilities)
-  - [I was supposed to give a presentation, but I cannot make it.](#i-was-supposed-to-give-a-presentation-but-i-cannot-make-it)
-- [Miscellaneous](#miscellaneous)
-  - [What language should I use for my presentation?](#what-language-should-i-use-for-my-presentation)
-  - [Can I get paid for speaking?](#can-i-get-paid-for-speaking)
-  - [Are you recording the events?](#are-you-recording-the-events)
-  - [How long do your events take?](#how-long-do-your-events-take)
-  - [Is there going to be food?](#is-there-going-to-be-food)
+- [Talk proposals](#talk-proposals)
+  - [FAQ](#faq)
+    - [How can I submit my talk?](#how-can-i-submit-my-talk)
+    - [I have an idea for a talk, but I don't want to be the speaker.](#i-have-an-idea-for-a-talk-but-i-dont-want-to-be-the-speaker)
+    - [I want to speak, but I don't have a topic.](#i-want-to-speak-but-i-dont-have-a-topic)
+    - [My talk has been accepted. Now what?](#my-talk-has-been-accepted-now-what)
+      - [What software should I use to create my presentation?](#what-software-should-i-use-to-create-my-presentation)
+    - [It's today!](#its-today)
+      - [Where is it the event hosted?](#where-is-it-the-event-hosted)
+      - [Do I need to bring my own computer?](#do-i-need-to-bring-my-own-computer)
+      - [When should I be at your place?](#when-should-i-be-at-your-place)
+      - [Can I visit your place and prepare myself before the event?](#can-i-visit-your-place-and-prepare-myself-before-the-event)
+      - [Is your place accessible for people with movement disabilities?](#is-your-place-accessible-for-people-with-movement-disabilities)
+      - [I was supposed to give a presentation, but I cannot make it.](#i-was-supposed-to-give-a-presentation-but-i-cannot-make-it)
+    - [Miscellaneous](#miscellaneous)
+      - [What language should I use for my presentation?](#what-language-should-i-use-for-my-presentation)
+      - [Can I get paid for speaking?](#can-i-get-paid-for-speaking)
+      - [Are you recording the events?](#are-you-recording-the-events)
+      - [How long do your events take?](#how-long-do-your-events-take)
+      - [Is there going to be food?](#is-there-going-to-be-food)
 
 <!-- /TOC -->
 
@@ -51,22 +53,14 @@ Whatever you like — as long as it get the job done, we are fine with it.
 
 #### Where is it the event hosted?
 
-Meetups are hosted in the building owned by our sponsors. The full address is:
+Meetups are hosted in Barbara, right at the heart of Wrocław.
 
-The Place  
-pl. Jana Pawła II 14  
-50-079 Wrocław  
-51.1125 N 17.0241 E  
-[See on Google Maps](https://www.google.com/maps/dir//plac+Jana+Paw%C5%82a+II+14,+50-079+Wroc%C5%82aw,+Polska/@51.1116577,17.0199383,17z/data=!4m9!4m8!1m0!1m5!1m1!1s0x470fc20a38996577:0xdbfd0b444e0630dc!2m2!1d17.022127!2d51.1116544!3e0)  
-[jakdojade.pl](https://jakdojade.pl/wroclaw/trasa/?tn=Plac%20Jana%20Paw%C5%82a%20II%2014)
+Barbara  
+Świdnicka 8B  
+50-067 Wrocław  
+51.10782 N 17.032889 E  
 
-<a href="https://www.google.com/maps/dir//plac+Jana+Paw%C5%82a+II+14,+50-079+Wroc%C5%82aw,+Polska/@51.1116577,17.0199383,17z/data=!4m9!4m8!1m0!1m5!1m1!1s0x470fc20a38996577:0xdbfd0b444e0630dc!2m2!1d17.022127!2d51.1116544!3e0" alt="Our location on the map">
-  <img src="https://maps.google.com/maps/api/staticmap?markers=icon%3Ahttps%3A%2F%2Fsecure.meetupstatic.com%2Fs%2Fimg%2F5961591462445047%2Fmup-custom-google-map-pin.png%7C51.112453%2C17.024282&zoom=17&size=480x300&sensor=false&key=AIzaSyA3fSxhHZNQNfMjJuMFvmULACXrBfFz9jQ&signature=mO3WqawkoxWueF0lin1nUyoXpqg%3D.jpg" width="340">
-</a>
-
-<br>
-
-We do have a parking lot. There is also space to store a bike inside the building.
+[See on Google Maps](https://goo.gl/maps/h4XqNuX5Tw45WXmk9)  
 
 #### Do I need to bring my own computer?
 
