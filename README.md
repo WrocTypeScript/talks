@@ -8,6 +8,7 @@ Do you have something to share with the community? [Tell us about it!](https://g
 
 - [Talk proposals](#talk-proposals)
   - [FAQ](#faq)
+    - [Can I give a remote talk?](#can-i-give-a-remote-talk)
     - [How can I submit my talk?](#how-can-i-submit-my-talk)
     - [I have an idea for a talk, but I don't want to be the speaker.](#i-have-an-idea-for-a-talk-but-i-dont-want-to-be-the-speaker)
     - [I want to speak, but I don't have a topic.](#i-want-to-speak-but-i-dont-have-a-topic)
@@ -28,6 +29,10 @@ Do you have something to share with the community? [Tell us about it!](https://g
       - [Is there going to be food?](#is-there-going-to-be-food)
 
 <!-- /TOC -->
+
+### Can I give a remote talk?
+
+Yes! We can make that happen. 
 
 ### How can I submit my talk?
 
